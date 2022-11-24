@@ -1,0 +1,2 @@
+Requirement already satisfied: scipy in /data/shihan/anaconda3/envs/plenoxel_v2/lib/python3.8/site-packages (1.9.3)
+Requirement already satisfied: numpy<1.26.0,>=1.18.5 in /data/shihan/anaconda3/envs/plenoxel_v2/lib/python3.8/site-packages (from scipy) (1.23.3)

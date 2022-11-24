@@ -1,0 +1,10 @@
+# ninja log v5
+3	28126	1667014784	/data/shihan/nerf/svox2-master/build/temp.linux-x86_64-cpython-38/svox2/csrc/svox2.o	1ff34501b2dc449e
+5	31629	1667015187	/data/shihan/nerf/svox2-master/build/temp.linux-x86_64-cpython-38/svox2/csrc/svox2.o	f28ecbe003a1fc92
+4	55477	1667015211	/data/shihan/nerf/svox2-master/build/temp.linux-x86_64-cpython-38/svox2/csrc/optim_kernel.o	ec6a1603ad2c4fe6
+4	56134	1667015212	/data/shihan/nerf/svox2-master/build/temp.linux-x86_64-cpython-38/svox2/csrc/render_lerp_kernel_cuvol.o	d815b870abdf1939
+3	56243	1667015212	/data/shihan/nerf/svox2-master/build/temp.linux-x86_64-cpython-38/svox2/csrc/loss_kernel.o	b43f87b6c8004204
+5	56261	1667015212	/data/shihan/nerf/svox2-master/build/temp.linux-x86_64-cpython-38/svox2/csrc/render_svox1_kernel.o	63b9b75cee9c63e4
+5	56488	1667015212	/data/shihan/nerf/svox2-master/build/temp.linux-x86_64-cpython-38/svox2/csrc/svox2_kernel.o	4c8578dcfdf2423e
+4	56917	1667015213	/data/shihan/nerf/svox2-master/build/temp.linux-x86_64-cpython-38/svox2/csrc/render_lerp_kernel_nvol.o	29f60f0c23709538
+3	57389	1667015213	/data/shihan/nerf/svox2-master/build/temp.linux-x86_64-cpython-38/svox2/csrc/misc_kernel.o	12045c98a32c1bf9
